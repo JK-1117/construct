@@ -4,7 +4,7 @@
 
 ## The Problem It Solves
 
-After `/blueprint` produces a spec, you still need a builder that won't re-scan the codebase. `construct` enforces that contract: no grep, no directory listing, no reading files outside the spec. Just implementation.
+After [/blueprint](https://github.com/JK-1117/blueprint) produces a spec, you still need a builder that won't re-scan the codebase. `construct` enforces that contract: no grep, no directory listing, no reading files outside the spec. Just implementation.
 
 ## When to Use
 
